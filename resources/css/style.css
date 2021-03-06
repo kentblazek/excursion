@@ -1,0 +1,21 @@
+/* universal styles */
+
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    
+}
+
+a {
+    color: aquamarine;
+}
+
+/* header styles */
+
