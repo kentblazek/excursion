@@ -9,13 +9,17 @@ html {
 
 h1 {
     font-size: 50px;
-    font-weight: normal;
-    
+    font-weight: normal;   
 }
 
-a {
-    color: aquamarine;
+.cta {
+    color:aquamarine;
+    font-size: 16px;
 }
+
 
 /* header styles */
 
+video {
+    margin: 20px;
+}
